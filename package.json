@@ -7,6 +7,18 @@
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mence/eslint-config-xogroup"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "xogroup",
+    "javascript",
+    "styleguide"
+  ],
   "author": "Tim Hordern (@mence)",
   "license": "MIT",
   "devDependencies": {
