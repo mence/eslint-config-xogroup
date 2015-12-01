@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-xogroup",
+  "version": "1.0.0",
+  "description": "XO Group's ESLint config, adopted from Airbnb's",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Hordern (@mence)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^1.10.2",
+    "eslint-config-airbnb": "^1.0.2"
+  }
+}
